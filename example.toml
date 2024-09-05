@@ -1,0 +1,7 @@
+
+
+tls_bind_addr = "127.0.0.1:8444"
+tls_pem_chain = "localhost.chain.pem"
+tls_pem_key = "localhost.key.pem"
+
+
